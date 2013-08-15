@@ -1,2 +1,7 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name: Pat Byrnes (PMByrnes)
+
+1. A Python/Flask/Jinja2 quick reference guide.  An app with various topics in the sidebar and an HTML page for each displaying a summary, example code, and FAQ.
+2. A stock market simple trend analysis tool.  Something where the user inputs x number of days of closing prices, and the app spits out a projected price in y number of days.
+	Note that this is a much lighter version of an app I ultimately hope to build.
+3. An expansion on the existing app for photos and videos, possibly with a playlist.
